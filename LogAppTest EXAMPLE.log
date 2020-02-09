@@ -1,0 +1,576 @@
+ 2020-02-09 11:39:19,334 BookCrawler.loadAllBooksOnThePage() - Starting book loading.It can takes up to 15 mins...
+ 2020-02-09 11:39:19,379 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #0 ----------------
+ 2020-02-09 11:39:19,379 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:19,455 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 38
+ 2020-02-09 11:39:19,456 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:25,073 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:25,073 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:25,080 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #1 ----------------
+ 2020-02-09 11:39:25,080 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:25,346 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 17
+ 2020-02-09 11:39:25,347 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:27,714 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:27,715 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:27,725 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #2 ----------------
+ 2020-02-09 11:39:27,725 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:28,074 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 18
+ 2020-02-09 11:39:28,074 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:30,696 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:30,696 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:30,704 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #3 ----------------
+ 2020-02-09 11:39:30,705 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:32,166 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 17
+ 2020-02-09 11:39:32,166 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:34,509 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:34,512 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:34,520 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #4 ----------------
+ 2020-02-09 11:39:34,520 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:34,758 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 17
+ 2020-02-09 11:39:34,758 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:37,143 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:37,143 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:37,151 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #5 ----------------
+ 2020-02-09 11:39:37,151 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:37,399 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 17
+ 2020-02-09 11:39:37,400 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:39,811 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:39,811 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:39,819 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #6 ----------------
+ 2020-02-09 11:39:39,819 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:40,107 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 19
+ 2020-02-09 11:39:40,107 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:42,762 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:42,764 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:42,776 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #7 ----------------
+ 2020-02-09 11:39:42,777 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:43,010 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 20
+ 2020-02-09 11:39:43,011 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:45,820 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:45,820 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:45,830 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #8 ----------------
+ 2020-02-09 11:39:45,830 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:45,969 BookCrawler.loadAllBooksOnThePage() - Amount of not loaded books 2
+ 2020-02-09 11:39:45,970 BookCrawler.loadAllBooksOnThePage() - Waiting for full loading
+ 2020-02-09 11:39:46,236 BookCrawler.loadAllBooksOnThePage() - Image loaded
+ 2020-02-09 11:39:46,236 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:39:46,246 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #9 ----------------
+ 2020-02-09 11:39:46,246 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:39:51,295 BookCrawler.loadAllBooksOnThePage() - Books still not loaded, waiting for loading completed ....
+ 2020-02-09 11:40:51,542 BookCrawler.loadAllBooksOnThePage() - Timeout exceed. Let's try one more time
+ 2020-02-09 11:40:51,543 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration done----------------
+ 2020-02-09 11:40:51,549 BookCrawler.loadAllBooksOnThePage() - ----------------Iteration #10 ----------------
+ 2020-02-09 11:40:51,549 BookCrawler.loadAllBooksOnThePage() - Start loading books
+ 2020-02-09 11:40:56,633 BookCrawler.loadAllBooksOnThePage() - All books on the page loaded!
+ 2020-02-09 11:40:56,659 BookCrawler.addAudioBookToBookList() -  Found 170 books
+ 2020-02-09 11:40:56,680 BookCrawler.addAudioBookToBookList() - Book added, total book 1
+ 2020-02-09 11:40:56,698 BookCrawler.addAudioBookToBookList() - Book added, total book 2
+ 2020-02-09 11:40:56,714 BookCrawler.addAudioBookToBookList() - Book added, total book 3
+ 2020-02-09 11:40:56,732 BookCrawler.addAudioBookToBookList() - Book added, total book 4
+ 2020-02-09 11:40:56,749 BookCrawler.addAudioBookToBookList() - Book added, total book 5
+ 2020-02-09 11:40:56,765 BookCrawler.addAudioBookToBookList() - Book added, total book 6
+ 2020-02-09 11:40:56,784 BookCrawler.addAudioBookToBookList() - Book added, total book 7
+ 2020-02-09 11:40:56,803 BookCrawler.addAudioBookToBookList() - Book added, total book 8
+ 2020-02-09 11:40:56,822 BookCrawler.addAudioBookToBookList() - Book added, total book 9
+ 2020-02-09 11:40:56,840 BookCrawler.addAudioBookToBookList() - Book added, total book 10
+ 2020-02-09 11:40:56,857 BookCrawler.addAudioBookToBookList() - Book added, total book 11
+ 2020-02-09 11:40:56,875 BookCrawler.addAudioBookToBookList() - Book added, total book 12
+ 2020-02-09 11:40:56,893 BookCrawler.addAudioBookToBookList() - Book added, total book 13
+ 2020-02-09 11:40:56,910 BookCrawler.addAudioBookToBookList() - Book added, total book 14
+ 2020-02-09 11:40:56,927 BookCrawler.addAudioBookToBookList() - Book added, total book 15
+ 2020-02-09 11:40:56,943 BookCrawler.addAudioBookToBookList() - Book added, total book 16
+ 2020-02-09 11:40:56,960 BookCrawler.addAudioBookToBookList() - Book added, total book 17
+ 2020-02-09 11:40:56,977 BookCrawler.addAudioBookToBookList() - Book added, total book 18
+ 2020-02-09 11:40:56,995 BookCrawler.addAudioBookToBookList() - Book added, total book 19
+ 2020-02-09 11:40:57,013 BookCrawler.addAudioBookToBookList() - Book added, total book 20
+ 2020-02-09 11:40:57,029 BookCrawler.addAudioBookToBookList() - Book added, total book 21
+ 2020-02-09 11:40:57,047 BookCrawler.addAudioBookToBookList() - Book added, total book 22
+ 2020-02-09 11:40:57,064 BookCrawler.addAudioBookToBookList() - Book added, total book 23
+ 2020-02-09 11:40:57,081 BookCrawler.addAudioBookToBookList() - Book added, total book 24
+ 2020-02-09 11:40:57,099 BookCrawler.addAudioBookToBookList() - Book added, total book 25
+ 2020-02-09 11:40:57,123 BookCrawler.addAudioBookToBookList() - Book added, total book 26
+ 2020-02-09 11:40:57,147 BookCrawler.addAudioBookToBookList() - Book added, total book 27
+ 2020-02-09 11:40:57,170 BookCrawler.addAudioBookToBookList() - Book added, total book 28
+ 2020-02-09 11:40:57,193 BookCrawler.addAudioBookToBookList() - Book added, total book 29
+ 2020-02-09 11:40:57,215 BookCrawler.addAudioBookToBookList() - Book added, total book 30
+ 2020-02-09 11:40:57,234 BookCrawler.addAudioBookToBookList() - Book added, total book 31
+ 2020-02-09 11:40:57,252 BookCrawler.addAudioBookToBookList() - Book added, total book 32
+ 2020-02-09 11:40:57,269 BookCrawler.addAudioBookToBookList() - Book added, total book 33
+ 2020-02-09 11:40:57,287 BookCrawler.addAudioBookToBookList() - Book added, total book 34
+ 2020-02-09 11:40:57,305 BookCrawler.addAudioBookToBookList() - Book added, total book 35
+ 2020-02-09 11:40:57,321 BookCrawler.addAudioBookToBookList() - Book added, total book 36
+ 2020-02-09 11:40:57,339 BookCrawler.addAudioBookToBookList() - Book added, total book 37
+ 2020-02-09 11:40:57,355 BookCrawler.addAudioBookToBookList() - Book added, total book 38
+ 2020-02-09 11:40:57,379 BookCrawler.addAudioBookToBookList() - Book added, total book 39
+ 2020-02-09 11:40:57,398 BookCrawler.addAudioBookToBookList() - Book added, total book 40
+ 2020-02-09 11:40:57,420 BookCrawler.addAudioBookToBookList() - Book added, total book 41
+ 2020-02-09 11:40:57,437 BookCrawler.addAudioBookToBookList() - Book added, total book 42
+ 2020-02-09 11:40:57,454 BookCrawler.addAudioBookToBookList() - Book added, total book 43
+ 2020-02-09 11:40:57,471 BookCrawler.addAudioBookToBookList() - Book added, total book 44
+ 2020-02-09 11:40:57,488 BookCrawler.addAudioBookToBookList() - Book added, total book 45
+ 2020-02-09 11:40:57,505 BookCrawler.addAudioBookToBookList() - Book added, total book 46
+ 2020-02-09 11:40:57,524 BookCrawler.addAudioBookToBookList() - Book added, total book 47
+ 2020-02-09 11:40:57,542 BookCrawler.addAudioBookToBookList() - Book added, total book 48
+ 2020-02-09 11:40:57,559 BookCrawler.addAudioBookToBookList() - Book added, total book 49
+ 2020-02-09 11:40:57,575 BookCrawler.addAudioBookToBookList() - Book added, total book 50
+ 2020-02-09 11:40:57,592 BookCrawler.addAudioBookToBookList() - Book added, total book 51
+ 2020-02-09 11:40:57,609 BookCrawler.addAudioBookToBookList() - Book added, total book 52
+ 2020-02-09 11:40:57,625 BookCrawler.addAudioBookToBookList() - Book added, total book 53
+ 2020-02-09 11:40:57,643 BookCrawler.addAudioBookToBookList() - Book added, total book 54
+ 2020-02-09 11:40:57,663 BookCrawler.addAudioBookToBookList() - Book added, total book 55
+ 2020-02-09 11:40:57,682 BookCrawler.addAudioBookToBookList() - Book added, total book 56
+ 2020-02-09 11:40:57,700 BookCrawler.addAudioBookToBookList() - Book added, total book 57
+ 2020-02-09 11:40:57,719 BookCrawler.addAudioBookToBookList() - Book added, total book 58
+ 2020-02-09 11:40:57,738 BookCrawler.addAudioBookToBookList() - Book added, total book 59
+ 2020-02-09 11:40:57,756 BookCrawler.addAudioBookToBookList() - Book added, total book 60
+ 2020-02-09 11:40:57,776 BookCrawler.addAudioBookToBookList() - Book added, total book 61
+ 2020-02-09 11:40:57,793 BookCrawler.addAudioBookToBookList() - Book added, total book 62
+ 2020-02-09 11:40:57,810 BookCrawler.addAudioBookToBookList() - Book added, total book 63
+ 2020-02-09 11:40:57,832 BookCrawler.addAudioBookToBookList() - Book added, total book 64
+ 2020-02-09 11:40:57,849 BookCrawler.addAudioBookToBookList() - Book added, total book 65
+ 2020-02-09 11:40:57,866 BookCrawler.addAudioBookToBookList() - Book added, total book 66
+ 2020-02-09 11:40:57,884 BookCrawler.addAudioBookToBookList() - Book added, total book 67
+ 2020-02-09 11:40:57,902 BookCrawler.addAudioBookToBookList() - Book added, total book 68
+ 2020-02-09 11:40:57,919 BookCrawler.addAudioBookToBookList() - Book added, total book 69
+ 2020-02-09 11:40:57,935 BookCrawler.addAudioBookToBookList() - Book added, total book 70
+ 2020-02-09 11:40:57,952 BookCrawler.addAudioBookToBookList() - Book added, total book 71
+ 2020-02-09 11:40:57,969 BookCrawler.addAudioBookToBookList() - Book added, total book 72
+ 2020-02-09 11:40:57,987 BookCrawler.addAudioBookToBookList() - Book added, total book 73
+ 2020-02-09 11:40:58,004 BookCrawler.addAudioBookToBookList() - Book added, total book 74
+ 2020-02-09 11:40:58,023 BookCrawler.addAudioBookToBookList() - Book added, total book 75
+ 2020-02-09 11:40:58,040 BookCrawler.addAudioBookToBookList() - Book added, total book 76
+ 2020-02-09 11:40:58,058 BookCrawler.addAudioBookToBookList() - Book added, total book 77
+ 2020-02-09 11:40:58,076 BookCrawler.addAudioBookToBookList() - Book added, total book 78
+ 2020-02-09 11:40:58,093 BookCrawler.addAudioBookToBookList() - Book added, total book 79
+ 2020-02-09 11:40:58,111 BookCrawler.addAudioBookToBookList() - Book added, total book 80
+ 2020-02-09 11:40:58,130 BookCrawler.addAudioBookToBookList() - Book added, total book 81
+ 2020-02-09 11:40:58,147 BookCrawler.addAudioBookToBookList() - Book added, total book 82
+ 2020-02-09 11:40:58,165 BookCrawler.addAudioBookToBookList() - Book added, total book 83
+ 2020-02-09 11:40:58,183 BookCrawler.addAudioBookToBookList() - Book added, total book 84
+ 2020-02-09 11:40:58,200 BookCrawler.addAudioBookToBookList() - Book added, total book 85
+ 2020-02-09 11:40:58,216 BookCrawler.addAudioBookToBookList() - Book added, total book 86
+ 2020-02-09 11:40:58,234 BookCrawler.addAudioBookToBookList() - Book added, total book 87
+ 2020-02-09 11:40:58,251 BookCrawler.addAudioBookToBookList() - Book added, total book 88
+ 2020-02-09 11:40:58,270 BookCrawler.addAudioBookToBookList() - Book added, total book 89
+ 2020-02-09 11:40:58,286 BookCrawler.addAudioBookToBookList() - Book added, total book 90
+ 2020-02-09 11:40:58,303 BookCrawler.addAudioBookToBookList() - Book added, total book 91
+ 2020-02-09 11:40:58,320 BookCrawler.addAudioBookToBookList() - Book added, total book 92
+ 2020-02-09 11:40:58,336 BookCrawler.addAudioBookToBookList() - Book added, total book 93
+ 2020-02-09 11:40:58,353 BookCrawler.addAudioBookToBookList() - Book added, total book 94
+ 2020-02-09 11:40:58,369 BookCrawler.addAudioBookToBookList() - Book added, total book 95
+ 2020-02-09 11:40:58,387 BookCrawler.addAudioBookToBookList() - Book added, total book 96
+ 2020-02-09 11:40:58,405 BookCrawler.addAudioBookToBookList() - Book added, total book 97
+ 2020-02-09 11:40:58,423 BookCrawler.addAudioBookToBookList() - Book added, total book 98
+ 2020-02-09 11:40:58,444 BookCrawler.addAudioBookToBookList() - Book added, total book 99
+ 2020-02-09 11:40:58,461 BookCrawler.addAudioBookToBookList() - Book added, total book 100
+ 2020-02-09 11:40:58,479 BookCrawler.addAudioBookToBookList() - Book added, total book 101
+ 2020-02-09 11:40:58,504 BookCrawler.addAudioBookToBookList() - Book added, total book 102
+ 2020-02-09 11:40:58,523 BookCrawler.addAudioBookToBookList() - Book added, total book 103
+ 2020-02-09 11:40:58,547 BookCrawler.addAudioBookToBookList() - Book added, total book 104
+ 2020-02-09 11:40:58,563 BookCrawler.addAudioBookToBookList() - Book added, total book 105
+ 2020-02-09 11:40:58,581 BookCrawler.addAudioBookToBookList() - Book added, total book 106
+ 2020-02-09 11:40:58,599 BookCrawler.addAudioBookToBookList() - Book added, total book 107
+ 2020-02-09 11:40:58,616 BookCrawler.addAudioBookToBookList() - Book added, total book 108
+ 2020-02-09 11:40:58,634 BookCrawler.addAudioBookToBookList() - Book added, total book 109
+ 2020-02-09 11:40:58,652 BookCrawler.addAudioBookToBookList() - Book added, total book 110
+ 2020-02-09 11:40:58,669 BookCrawler.addAudioBookToBookList() - Book added, total book 111
+ 2020-02-09 11:40:58,686 BookCrawler.addAudioBookToBookList() - Book added, total book 112
+ 2020-02-09 11:40:58,705 BookCrawler.addAudioBookToBookList() - Book added, total book 113
+ 2020-02-09 11:40:58,723 BookCrawler.addAudioBookToBookList() - Book added, total book 114
+ 2020-02-09 11:40:58,740 BookCrawler.addAudioBookToBookList() - Book added, total book 115
+ 2020-02-09 11:40:58,758 BookCrawler.addAudioBookToBookList() - Book added, total book 116
+ 2020-02-09 11:40:58,777 BookCrawler.addAudioBookToBookList() - Book added, total book 117
+ 2020-02-09 11:40:58,796 BookCrawler.addAudioBookToBookList() - Book added, total book 118
+ 2020-02-09 11:40:58,814 BookCrawler.addAudioBookToBookList() - Book added, total book 119
+ 2020-02-09 11:40:58,832 BookCrawler.addAudioBookToBookList() - Book added, total book 120
+ 2020-02-09 11:40:58,851 BookCrawler.addAudioBookToBookList() - Book added, total book 121
+ 2020-02-09 11:40:58,869 BookCrawler.addAudioBookToBookList() - Book added, total book 122
+ 2020-02-09 11:40:58,889 BookCrawler.addAudioBookToBookList() - Book added, total book 123
+ 2020-02-09 11:40:58,908 BookCrawler.addAudioBookToBookList() - Book added, total book 124
+ 2020-02-09 11:40:58,926 BookCrawler.addAudioBookToBookList() - Book added, total book 125
+ 2020-02-09 11:40:58,943 BookCrawler.addAudioBookToBookList() - Book added, total book 126
+ 2020-02-09 11:40:58,960 BookCrawler.addAudioBookToBookList() - Book added, total book 127
+ 2020-02-09 11:40:58,977 BookCrawler.addAudioBookToBookList() - Book added, total book 128
+ 2020-02-09 11:40:58,995 BookCrawler.addAudioBookToBookList() - Book added, total book 129
+ 2020-02-09 11:40:59,015 BookCrawler.addAudioBookToBookList() - Book added, total book 130
+ 2020-02-09 11:40:59,034 BookCrawler.addAudioBookToBookList() - Book added, total book 131
+ 2020-02-09 11:40:59,051 BookCrawler.addAudioBookToBookList() - Book added, total book 132
+ 2020-02-09 11:40:59,068 BookCrawler.addAudioBookToBookList() - Book added, total book 133
+ 2020-02-09 11:40:59,084 BookCrawler.addAudioBookToBookList() - Book added, total book 134
+ 2020-02-09 11:40:59,102 BookCrawler.addAudioBookToBookList() - Book added, total book 135
+ 2020-02-09 11:40:59,120 BookCrawler.addAudioBookToBookList() - Book added, total book 136
+ 2020-02-09 11:40:59,139 BookCrawler.addAudioBookToBookList() - Book added, total book 137
+ 2020-02-09 11:40:59,157 BookCrawler.addAudioBookToBookList() - Book added, total book 138
+ 2020-02-09 11:40:59,175 BookCrawler.addAudioBookToBookList() - Book added, total book 139
+ 2020-02-09 11:40:59,192 BookCrawler.addAudioBookToBookList() - Book added, total book 140
+ 2020-02-09 11:40:59,209 BookCrawler.addAudioBookToBookList() - Book added, total book 141
+ 2020-02-09 11:40:59,227 BookCrawler.addAudioBookToBookList() - Book added, total book 142
+ 2020-02-09 11:40:59,246 BookCrawler.addAudioBookToBookList() - Book added, total book 143
+ 2020-02-09 11:40:59,266 BookCrawler.addAudioBookToBookList() - Book added, total book 144
+ 2020-02-09 11:40:59,286 BookCrawler.addAudioBookToBookList() - Book added, total book 145
+ 2020-02-09 11:40:59,304 BookCrawler.addAudioBookToBookList() - Book added, total book 146
+ 2020-02-09 11:40:59,322 BookCrawler.addAudioBookToBookList() - Book added, total book 147
+ 2020-02-09 11:40:59,341 BookCrawler.addAudioBookToBookList() - Book added, total book 148
+ 2020-02-09 11:40:59,359 BookCrawler.addAudioBookToBookList() - Book added, total book 149
+ 2020-02-09 11:40:59,378 BookCrawler.addAudioBookToBookList() - Book added, total book 150
+ 2020-02-09 11:40:59,397 BookCrawler.addAudioBookToBookList() - Book added, total book 151
+ 2020-02-09 11:40:59,414 BookCrawler.addAudioBookToBookList() - Book added, total book 152
+ 2020-02-09 11:40:59,432 BookCrawler.addAudioBookToBookList() - Book added, total book 153
+ 2020-02-09 11:40:59,449 BookCrawler.addAudioBookToBookList() - Book added, total book 154
+ 2020-02-09 11:40:59,468 BookCrawler.addAudioBookToBookList() - Book added, total book 155
+ 2020-02-09 11:40:59,485 BookCrawler.addAudioBookToBookList() - Book added, total book 156
+ 2020-02-09 11:40:59,501 BookCrawler.addAudioBookToBookList() - Book added, total book 157
+ 2020-02-09 11:40:59,517 BookCrawler.addAudioBookToBookList() - Book added, total book 158
+ 2020-02-09 11:40:59,534 BookCrawler.addAudioBookToBookList() - Book added, total book 159
+ 2020-02-09 11:40:59,550 BookCrawler.addAudioBookToBookList() - Book added, total book 160
+ 2020-02-09 11:40:59,567 BookCrawler.addAudioBookToBookList() - Book added, total book 161
+ 2020-02-09 11:40:59,584 BookCrawler.addAudioBookToBookList() - Book added, total book 162
+ 2020-02-09 11:40:59,609 BookCrawler.addAudioBookToBookList() - Book added, total book 163
+ 2020-02-09 11:40:59,631 BookCrawler.addAudioBookToBookList() - Book added, total book 164
+ 2020-02-09 11:40:59,653 BookCrawler.addAudioBookToBookList() - Book added, total book 165
+ 2020-02-09 11:40:59,681 BookCrawler.addAudioBookToBookList() - Book added, total book 166
+ 2020-02-09 11:40:59,700 BookCrawler.addAudioBookToBookList() - Book added, total book 167
+ 2020-02-09 11:40:59,716 BookCrawler.addAudioBookToBookList() - Book added, total book 168
+ 2020-02-09 11:40:59,733 BookCrawler.addAudioBookToBookList() - Book added, total book 169
+ 2020-02-09 11:40:59,750 BookCrawler.addAudioBookToBookList() - Book added, total book 170
+ 2020-02-09 11:41:03,033 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/keltskie-mify/', name='Кельтские мифы', author='Миранда Олдхаус-Грин', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/keltskie-mify/keltskie-mify.mp3'}
+ 2020-02-09 11:41:03,034 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:05,425 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/chuvstvo-lyubvi/', name='Чувство любви', author='Сью Джонсон', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/chuvstvo-lyubvi/chuvstvo-lyubvi.mp3'}
+ 2020-02-09 11:41:05,425 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:07,858 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/net-nichego-nevozmozhnogo/', name='Нет ничего невозможного', author='Килиан Жорнет', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/net-nichego-nevozmozhnogo/net-nichego-nevozmozhnogo.mp3'}
+ 2020-02-09 11:41:07,859 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:15,670 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/kak-perestat-uchit-inostrannyj-yazyk/', name='Как перестать учить иностранный язык и начать на нем жить', author='Анастасия Иванова', price='324', refToFragment='not defined'}
+ 2020-02-09 11:41:15,670 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:22,835 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vsya-pravda-obo-mne/', name='Вся правда обо мне', author='Эмбер Рэй', price='399', refToFragment='not defined'}
+ 2020-02-09 11:41:22,835 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:25,581 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/prosto-kosmos/', name='Просто космос', author='Катерина Ленгольд', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/prosto-kosmos/prosto-kosmos-audio.mp3'}
+ 2020-02-09 11:41:25,582 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:32,726 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/bioxaking-mozga/', name='Биохакинг мозга', author='Дэйв Эспри', price='399', refToFragment='not defined'}
+ 2020-02-09 11:41:32,726 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:34,872 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/princzipyi/', name='Принципы', author='Рэй Далио', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/princzipyi/princzipyi-audio.mp3'}
+ 2020-02-09 11:41:34,876 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:43,651 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/traktorenok-kotoryij-xochet-usnut/', name='Тракторенок, который хочет уснуть', author='Карл-Йохан Форссен Эрлин', price='279', refToFragment='not defined'}
+ 2020-02-09 11:41:43,652 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:46,157 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/nikogda-nibud/', name='Никогда-нибудь', author='Елена Резанова', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/nikogda-nibud/03nikogda-nibud.mp3'}
+ 2020-02-09 11:41:46,157 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:48,545 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/gen-direktora/', name='Ген директора', author='Владимир Моженков', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/gen-direktora/04-gen-direktora.mp3'}
+ 2020-02-09 11:41:48,545 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:50,764 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/nudge/', name='Nudge', author='Ричард Талер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/nudge/nudge-audio.mp3'}
+ 2020-02-09 11:41:50,765 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:53,346 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/children/2017/pasha_i_papa/', name='Паша и папа', author='Сюзанна Вебер', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/pasha_i_papa/03pasha_i_papa.mp3'}
+ 2020-02-09 11:41:53,347 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:56,316 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/mindset/', name='Гибкое сознание', author='Кэрол Дуэк', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/mindset/Gibkoe_soznanie.mp3'}
+ 2020-02-09 11:41:56,316 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:41:59,203 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/', name='Джедайские техники', author='Максим Дорофеев', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/dzhedajskie-texniki/Dzhedajskie_tehniki.mp3'}
+ 2020-02-09 11:41:59,203 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:02,323 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/davno-pora/', name='Давно пора!', author='Барбара Шер', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/davno-pora/08davno-pora.mp3'}
+ 2020-02-09 11:42:02,324 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:10,382 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/slonenok-kotoryij-xochet-usnut/', name='Слоненок, который хочет уснуть', author='Карл-Йохан Форссен Эрлин', price='279', refToFragment='not defined'}
+ 2020-02-09 11:42:10,382 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:12,390 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/tatuirovki-prodavana/', name='45 татуировок продавана', author='Максим Батырев (Комбат)', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/tatuirovki-prodavana/45_tatoo_prodavana.mp3'}
+ 2020-02-09 11:42:12,390 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:14,860 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/gormony-schastya/', name='Гормоны счастья', author='Лоретта Грациано Бройнинг', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/gormony-schastya/gormony-schasty.mp3'}
+ 2020-02-09 11:42:14,861 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:21,944 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/kak-hochet-zhenshina/', name='Как хочет женщина', author='Эмили Нагоски', price='399', refToFragment='not defined'}
+ 2020-02-09 11:42:21,944 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:24,689 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/100-sposobov-izmenit-zhizn/', name='100 способов изменить жизнь', author='Лариса Парфентьева', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/100-sposobov-izmenit-zhizn/100_sposobov_izmenit_zhizn.mp3'}
+ 2020-02-09 11:42:24,689 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:27,140 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/magiya-utra/', name='Магия утра', author='Хэл Элрод', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/magiya-utra/Magiya-utra.mp3'}
+ 2020-02-09 11:42:27,140 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:30,474 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/na-predele/', name='На пределе', author='Эрик Бертран Ларссен', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/na-predele/na-predele.mp3'}
+ 2020-02-09 11:42:30,475 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:38,473 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/gettingthingsdone/', name='Как привести дела в порядок', author='Дэвид Аллен', price='399', refToFragment='not defined'}
+ 2020-02-09 11:42:38,473 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:40,770 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/novyj-vzglyad-na-organizacii/', name='Открывая организации будущего', author='Фредерик Лалу', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/otkryivaya-organizaczii-budushhego/Otkrivaya_organizacii_budushego.mp3'}
+ 2020-02-09 11:42:40,771 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:43,435 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/scrum/', name='Scrum', author='Джефф Сазерленд', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/scrum/Scrum.mp3'}
+ 2020-02-09 11:42:43,435 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:46,710 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/rabota_bez_vreditelej/', name='Не работайте с м*даками', author='Роберт Саттон', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/rabota_bez_vreditelej/rabota_bez_vreditelej_01of9.mp3'}
+ 2020-02-09 11:42:46,711 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:50,678 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/preodolevaya_sebya/', name='БУДЬ лучшей версией себя', author='Дэн Вальдшмидт', price='359', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/preodolevaya_sebya/preodolevaya-sebya.mp3'}
+ 2020-02-09 11:42:50,678 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:42:55,222 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/hozyain_svoej_zhizni/', name='Эссенциализм', author='Грег МакКеон', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/hozyain_svoej_zhizni/hozyain-svoej-zhizni_06of21.mp3'}
+ 2020-02-09 11:42:55,223 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:03,181 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/eda_i_mozg/', name='Еда и мозг', author='Дэвид Перлмуттер', price='399', refToFragment='not defined'}
+ 2020-02-09 11:43:03,181 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:05,545 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/osoznannost/', name='Осознанность', author='Марк Уильямс', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/osoznannost/osoznannost_audio.mp3'}
+ 2020-02-09 11:43:05,545 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:08,080 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/nomer_odin/', name='Номер 1. Как стать лучшим в том, что ты делаешь', author='Игорь Манн', price='359', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/nomer_odin/Nomer_1.mp3'}
+ 2020-02-09 11:43:08,080 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:12,102 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/healthy_eating/the-china-study/', name='Китайское исследование', author='Колин Кэмпбелл', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/the-china-study/the-china-study_2of20.mp3'}
+ 2020-02-09 11:43:12,102 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:15,484 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/', name='45 татуировок менеджера', author='Максим Батырев (Комбат)', price='359', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/tattoos/01_%D0%A1%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0%20%D0%BD%D0%B0%D1%83%D1%87%D0%B8%D1%82%D0%B5%D1%81%D1%8C%20%D0%B8%D0%B3%D1%80%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%D0%BC,%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D0%B9%D1%82%D0%B5%20%D1%81%D0%B2%D0%BE%D0%B8.mp3'}
+ 2020-02-09 11:43:15,485 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:18,685 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/think/', name='Как люди думают', author='Дмитрий Чернышев', price='240', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/think_mp3/01.mp3'}
+ 2020-02-09 11:43:18,685 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:22,272 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/call/', name='Мастер звонка', author='Евгений Жигилий', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/master-zvonka/call-07.mp3'}
+ 2020-02-09 11:43:22,272 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:25,625 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/eat_that_frog/', name='Выйди из зоны комфорта. Измени свою жизнь', author='Брайан Трейси', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/eat_that_frog_mp3/00_Vvedenie.mp3'}
+ 2020-02-09 11:43:25,626 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:30,046 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/great-choice/', name='Великие по собственному выбору', author='Джим Коллинз', price='456', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/great-by-choice_mp3/1.mp3'}
+ 2020-02-09 11:43:30,046 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:34,320 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/psychologies/emotional-intelligence/', name='Эмоциональный интеллект', author='Дэниел Гоулман', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/working-with-emotional-intelligence/Emocionalnij%20intellekt.mp3'}
+ 2020-02-09 11:43:34,322 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:37,949 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/thewillpowerinstinct/', name='Сила воли', author='Келли Макгонигал', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/thewillpowerinstinct_mp3/01_Predislovie.mp3'}
+ 2020-02-09 11:43:37,949 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:41,516 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/children/zoki-i-bada/', name='Зоки и Бада', author='Ирина и Леонид Тюхтяевы', price='280', refToFragment='https://www.mann-ivanov-ferber.ru/assets/images/content/books/audio/zoki_i_bada/1.%20%D0%92%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.mp3'}
+ 2020-02-09 11:43:41,516 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:44,941 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/personal-mba/', name='Сам себе МВА', author='Джош Кауфман', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/personal-mba/personal-mba-audio.mp3'}
+ 2020-02-09 11:43:44,941 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:48,620 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/deliveringhappiness/', name='Доставляя счастье', author='Тони Шей', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/deliveringhappiness/deliveringhappiness-1_audio.mp3'}
+ 2020-02-09 11:43:48,621 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:51,899 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/purplecow/', name='Фиолетовая корова', author='Сет Годин', price='359', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/007a/%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%D0%B0.mp3'}
+ 2020-02-09 11:43:51,899 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:54,830 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/biznesroman/deadline1/', name='Deadline', author='Том ДеМарко', price='360', refToFragment='https://www.mann-ivanov-ferber.ru/assets/images/content/books/audio/Deadline_mp3/Deadline.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5.mp3'}
+ 2020-02-09 11:43:54,830 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:43:57,571 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/tajm-drajv/', name='Тайм-драйв', author='Глеб Архангельский', price='280', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/001a/00_00.mp3'}
+ 2020-02-09 11:43:57,571 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:00,903 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/sse/good-great/', name='От хорошего к великому', author='Джим Коллинз', price='456', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/gtga/gtga-predislovie.mp3'}
+ 2020-02-09 11:44:00,903 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:03,765 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/050/', name='Камасутра для оратора', author='Радислав Гандапас', price='400', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/050/Kamasutra_dlya_oratora.mp3'}
+ 2020-02-09 11:44:03,765 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:06,874 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/pfem/', name='Жизнь на полной мощности!', author='Джим Лоэр', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/pfem/Zhizn_na_polnoj_moshnosti.mp3'}
+ 2020-02-09 11:44:06,874 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:09,883 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/002/', name='Маркетинг на 100%: ремикс', author='Игорь Манн', price='360', refToFragment='https://www.mann-ivanov-ferber.ru/assets/images/content/books/audio/002_mp3/01.mp3'}
+ 2020-02-09 11:44:09,883 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:12,949 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/bezgranichnyij-razum/', name='Безграничный разум', author='Джо Боулер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/bezgranichnyij-razum/bezgranichnyij-razum.mp3'}
+ 2020-02-09 11:44:12,949 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:15,685 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/s-menya-xvatit/', name='С меня хватит!', author='Ими Ло', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/s-menya-xvatit/s-menya-xvatit.mp3'}
+ 2020-02-09 11:44:15,685 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:18,506 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/byit-soboj/', name='Быть собой', author='Руби Уэкс', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/byit-soboj/byit-soboj.mp3'}
+ 2020-02-09 11:44:18,506 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:21,221 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/o-chem-myi-molchim-s-moej-materyu/', name='О чем мы молчим с моей матерью', author='Мишель Филгейт', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/o-chem-myi-molchim-s-moej-materyu/o-chem-myi-molchim-s-moej-materyu.mp3'}
+ 2020-02-09 11:44:21,222 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:24,016 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/moda-i-genii/', name='Мода и гении', author='Ольга Хорошилова', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/moda-i-genii/005-moda-i-genii.mp3'}
+ 2020-02-09 11:44:24,017 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:27,151 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/kamen-duchcho/', name='Камень Дуччо', author='Стефани Стори', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/kamen-duchcho/15-kamen-duchcho.mp3'}
+ 2020-02-09 11:44:27,152 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:29,930 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/sirius/', name='Сириус', author='Стефан Серван', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/sirius/024-sirius.mp3'}
+ 2020-02-09 11:44:29,930 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:32,859 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vzaperti/', name='Взаперти', author='Люси Кристофер', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/vzaperti/001-vzaperti.mp3'}
+ 2020-02-09 11:44:32,859 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:35,709 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/bespokojnyie/', name='Беспокойные', author='Лиза Ко', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/bespokojnyie/18-bespokojnyie.mp3'}
+ 2020-02-09 11:44:35,709 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:38,819 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/nordic-dads/', name='Nordic Dads', author='Александр Фельдберг', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/nordic-dads/nordic.mp3'}
+ 2020-02-09 11:44:38,820 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:41,814 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/zhenshhinyi-devyatoj-uliczyi/', name='Женщины Девятой улицы', author='Мэри Габриэль', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/zhenshhinyi-devyatoj-uliczyi/zhenshhinyi-devyatoj-uliczyi.mp3'}
+ 2020-02-09 11:44:41,814 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:44,719 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/syrok/', name='Сырок', author='Борис Александров', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/syrok/syrok-19.mp3'}
+ 2020-02-09 11:44:44,720 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:47,779 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/uroki-istorii/', name='Уроки истории', author='Уилл Дюрант', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/uroki-istorii/uroki-istorii-07.mp3'}
+ 2020-02-09 11:44:47,779 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:50,849 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vyibor/', name='Выбор', author='Эдит Ева Эгер', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/vyibor/vyibor-03.mp3'}
+ 2020-02-09 11:44:50,849 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:53,571 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pravila-zhizni-i-biznesa/', name='Правила жизни и бизнеса', author='Игорь Манн', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/pravila-zhizni-i-biznesa/pravila-zhizni-i-biznesa-1.mp3'}
+ 2020-02-09 11:44:53,571 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:56,438 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/zdorovoe-pitanie-kazhdyj-den/', name='Здоровое питание каждый день', author='Рут Энн Карпентер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/zdorovoe-pitanie-kazhdyj-den/zdorovoe-pitanie-kazhdyj-den.mp3'}
+ 2020-02-09 11:44:56,438 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:44:59,248 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/biznes-po-chut-chut/', name='Бизнес по чуть-чуть', author='Владимир Моженков', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/biznes-po-chut-chut/07biznes-po-chut-chut.mp3'}
+ 2020-02-09 11:44:59,252 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:02,275 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vremya-zanyatoe-zhiznyu/', name='Время, занятое жизнью', author='Урсула Ле Гуин', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/vremya-zanyatoe-zhiznyu/vremya-zanyatoe-zhiznyu-02.mp3'}
+ 2020-02-09 11:45:02,275 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:05,397 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vizhu-cel-idu-k-nej/', name='Вижу цель — иду к ней', author='Дарья Гейлер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/vizhu-cel-idu-k-nej/001vizhu-cel-idu-k-nej.mp3'}
+ 2020-02-09 11:45:05,397 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:08,853 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/33-alfavit-zhiznennyh-istorij/', name='33+. Алфавит жизненных историй', author='Лариса Парфентьева', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/33-alfavit-zhiznennyh-istorij/003-alfavit-zhiznennyh-istorij.mp3'}
+ 2020-02-09 11:45:08,854 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:12,697 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/o-moj-blog/', name='О мой блог!', author='Анна Шуст', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/o-moj-blog/05-o-moj-blog.mp3'}
+ 2020-02-09 11:45:12,697 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:15,048 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/lyubov-na-vsyu-zhizn/', name='Любовь на всю жизнь', author='Харвилл Хендрикс и Хелен Хант', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/lyubov-na-vsyu-zhizn/lyubov-na-vsyu-zhizn-03.mp3'}
+ 2020-02-09 11:45:15,049 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:18,520 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/magiya-utra-dlya-vyisokix-prodazh/', name='Магия утра для высоких продаж', author='Хэл Элрод', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/magiya-utra-dlya-vyisokix-prodazh/magiya-utra-dlya-vyisokix-prodazh-001.mp3'}
+ 2020-02-09 11:45:18,520 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:21,415 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/hbr-guide-stress-na-rabote/', name='HBR Guide. Стресс на работе', author='Harvard Business Review', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/hbr-guide-stress-na-rabote/hbr-guide-stress-na-rabote-01.mp3'}
+ 2020-02-09 11:45:21,415 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:26,171 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/skandinavskie-mify/', name='Скандинавские мифы', author='Кэролин Ларрингтон', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/skandinavskie-mify/skandinavskie-mify-03.mp3'}
+ 2020-02-09 11:45:26,172 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:29,259 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/osnovy-teorii-u/', name='Основы Теории U', author='Отто Шармер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/osnovy-teorii-u/osnovy-teorii-u-000.mp3'}
+ 2020-02-09 11:45:29,259 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:32,687 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/czifrovoj-minimalizm/', name='Цифровой минимализм', author='Кэл Ньюпорт', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/czifrovoj-minimalizm/czifrovoj-minimalizm-03.mp3'}
+ 2020-02-09 11:45:32,687 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:35,445 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/put-biznesa/', name='Путь бизнеса', author='Галия Бердникова', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/book-images/put-biznesa/put-biznesa-audio-1.mp3'}
+ 2020-02-09 11:45:35,446 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:38,649 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/svoya-komnata/', name='Своя комната', author='Вирджиния Вулф', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/svoya-komnata/svoya-komnata-audio-3.mp3'}
+ 2020-02-09 11:45:38,649 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:41,820 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/semya-chto-nado/', name='Семья что надо', author='Нина Зверева', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/semya-chto-nado/semya-chto-nado.mp3'}
+ 2020-02-09 11:45:41,820 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:45,536 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vnimanie-samomu-vazhnomu/', name='Внимание самому важному', author='Нин Джеймс', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/vnimanie-samomu-vazhnomu/vnimanie-samomu-vazhnomu.mp3'}
+ 2020-02-09 11:45:45,536 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:48,663 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/samodisciplina-20/', name='Самодисциплина 2.0', author='Владимир Якуба', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/samodisciplina-20/samodisciplina-20-audio-2.mp3'}
+ 2020-02-09 11:45:48,663 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:45:51,684 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/hvatit-gadat/', name='Хватит гадать!', author='Нэт Грин', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/hvatit-gadat/03-hvatit-gadat.mp3'}
+ 2020-02-09 11:45:51,684 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:01,601 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/slon/', name='Слон', author='Питер Карнавас', price='319', refToFragment='not defined'}
+ 2020-02-09 11:46:01,601 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:10,557 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/operaciya-shedevr/', name='Операция «Шедевр»', author='Роберт Уиттман', price='399', refToFragment='not defined'}
+ 2020-02-09 11:46:10,558 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:13,114 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/otkroveniya-oratora/', name='Откровения оратора', author='Скотт Беркун', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/otkroveniya-oratora/otkroveniya-oratora-audio-3.mp3'}
+ 2020-02-09 11:46:13,115 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:20,919 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/god-bez-pokupok/', name='Год без покупок', author='Кейт Фландерс', price='399', refToFragment='not defined'}
+ 2020-02-09 11:46:20,919 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:25,477 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/voprosy-eto-otvety/', name='Вопросы — это ответы', author='Хэл Грегерсен', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/voprosy-eto-otvety/000-1.mp3'}
+ 2020-02-09 11:46:25,477 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:33,093 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/boyatsya-no-delat/', name='Бояться, но делать', author='Брэндон Уэбб', price='399', refToFragment='not defined'}
+ 2020-02-09 11:46:33,095 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:41,238 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/magiya-utra-dlya-pisatelej/', name='Магия утра для писателей', author='Хэл Элрод', price='399', refToFragment='not defined'}
+ 2020-02-09 11:46:41,238 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:43,473 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/kniga-zozhnika/', name='Книга зожника', author='Максим Кудеров', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/kniga-zozhnika/kniga-zozhnika-audio-1.mp3'}
+ 2020-02-09 11:46:43,473 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:50,734 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/desyat-minut-do-dzena/', name='Десять минут до дзена', author='Оуэн О'Кейн', price='399', refToFragment='not defined'}
+ 2020-02-09 11:46:50,734 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:46:57,709 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/besedy-o-schaste/', name='Беседы о счастье', author='Аркадий Панц', price='399', refToFragment='not defined'}
+ 2020-02-09 11:46:57,709 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:00,288 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/dom-kotoryj-postroil-semyu/', name='Дом, который построил семью', author='Кара Брукинс', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/dom-kotoryj-postroil-semyu/02-dom-kotoryj-postroil-semyu.mp3'}
+ 2020-02-09 11:47:00,289 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:07,473 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/po-bolshomu-schetu/', name='По большому счету', author='Евгения Письменная', price='399', refToFragment='not defined'}
+ 2020-02-09 11:47:07,474 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:11,757 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/igra-kak-zhizn/', name='Игра как жизнь', author='Ута Хаген', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/igra-kak-zhizn/igra-kak-zhizn-audio-3.mp3'}
+ 2020-02-09 11:47:11,757 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:19,017 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/biznes-na-svoi/', name='Бизнес на свои', author='Сергей Абдульманов', price='399', refToFragment='not defined'}
+ 2020-02-09 11:47:19,017 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:26,159 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/magiya-utra-dlya-finansovoj-svobody/', name='Магия утра для финансовой свободы', author='Хэл Элрод', price='399', refToFragment='not defined'}
+ 2020-02-09 11:47:26,159 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:33,252 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/ne-shodite-s-uma-na-rabote/', name='Не сходите с ума на работе', author='Джейсон Фрайд', price='324', refToFragment='not defined'}
+ 2020-02-09 11:47:33,252 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:36,175 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/spasite-kotika/', name='Спасите котика!', author='Блейк Снайдер', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/spasite_kota_mp3/00_Vvedenie.mp3'}
+ 2020-02-09 11:47:36,175 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:43,947 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/ya-nenavizhu-svoyu-sheyu/', name='Я ненавижу свою шею', author='Нора Эфрон', price='324', refToFragment='not defined'}
+ 2020-02-09 11:47:43,949 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:52,291 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/vstan-i-skazhi/', name='Встань и скажи', author='Нина Зверева', price='399', refToFragment='not defined'}
+ 2020-02-09 11:47:52,291 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:54,872 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/princip-stavok/', name='Принцип ставок', author='Энни Дьюк', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/princip-stavok/princip-stavok-02.mp3'}
+ 2020-02-09 11:47:54,872 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:47:57,057 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mesyac-na-predele/', name='Месяц на пределе', author='Джесси Ицлер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/mesyac-na-predele/mesyac-na-predele-audio-4.mp3'}
+ 2020-02-09 11:47:57,057 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:05,749 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/krolik-kotoryj-hochet-usnut/', name='Кролик, который хочет уснуть', author='Карл-Йохан Форссен Эрлин', price='279', refToFragment='not defined'}
+ 2020-02-09 11:48:05,749 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:09,351 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/inkognito/', name='Инкогнито', author='Дэвид Иглмен', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/inkognito/inkognito-1_audio.mp3'}
+ 2020-02-09 11:48:09,351 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:11,998 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pasha-i-papa-govoryat-o-zhivotnyh/', name='Паша и папа говорят о животных', author='Сюзанна Вебер', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/pasha-i-papa-govoryat-o-zhivotnyh/pasha-i-papa-govoryat-o-zhivotnyh-06.mp3'}
+ 2020-02-09 11:48:11,998 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:20,101 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/magiya-utra-dlya-vlyublennyh/', name='Магия утра для влюбленных', author='Хэл Элрод', price='399', refToFragment='not defined'}
+ 2020-02-09 11:48:20,103 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:22,377 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/hbr-guide/', name='HBR Guide. Эмоциональный интеллект', author='Harvard Business Review', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/hbr-guide/HBRguide.mp3'}
+ 2020-02-09 11:48:22,377 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:29,900 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/bolshoj-potencial/', name='Большой потенциал', author='Шон Эйкор', price='399', refToFragment='not defined'}
+ 2020-02-09 11:48:29,900 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:33,057 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pomosh/', name='Помощь', author='Эдгар Г. Шейн', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/pomosh/pomosh-2-audio.mp3'}
+ 2020-02-09 11:48:33,057 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:35,727 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/govorit-legko/', name='Говорить легко!', author='Кэрол Флеминг', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/govorit-legko/govorit-legko_audio.mp3'}
+ 2020-02-09 11:48:35,727 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:38,424 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/maksimalnyj-zaryad/', name='Максимальный заряд', author='Том Рат', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/maksimalnyj-zaryad/maksimalnyj-zaryad-3-audio.mp3'}
+ 2020-02-09 11:48:38,424 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:41,159 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/45-tatuirovok-lichnosti/', name='45 татуировок личности', author='Максим Батырев (Комбат)', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/45-tatuirovok-lichnosti/45-tatuirovok-lichnosti.mp3'}
+ 2020-02-09 11:48:41,159 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:44,432 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mashina-platforma-tolpa/', name='Машина, платформа, толпа', author='Эндрю Макафи, Эрик Бриньолфсон', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/mashina-platforma-tolpa/mashina-platforma-tolpa.mp3'}
+ 2020-02-09 11:48:44,433 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:47,598 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pohishaya-ogon/', name='Похищая огонь', author='Стивен Котлер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/pohishaya-ogon/pohishaya-ogon.mp3'}
+ 2020-02-09 11:48:47,598 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:55,487 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/magiya-utra-dlya-vsej-semi/', name='Магия утра для всей семьи', author='Хэл Элрод', price='399', refToFragment='not defined'}
+ 2020-02-09 11:48:55,489 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:48:57,849 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/budet-sdelano/', name='Будет сделано!', author='Никита Маклахов', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/budet-sdelano/budet-sdelano-audio.mp3'}
+ 2020-02-09 11:48:57,849 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:00,033 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/bez-stressa/', name='Без стресса', author='Митху Сторони', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/bez-stressa/bez-stressa-9-audio.mp3'}
+ 2020-02-09 11:49:00,033 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:03,237 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/prostye-pravila/', name='Простые правила', author='Кэтлин Эйзенхардт', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/prostye-pravila/prostye-pravila-1-audio.mp3'}
+ 2020-02-09 11:49:03,237 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:05,701 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mashina-pravdyi/', name='Машина правды', author='Пол Винья', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/mashina-pravdyi/mashina-pravdyi.mp3'}
+ 2020-02-09 11:49:05,701 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:12,893 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/stroim-doverie-po-metodikam-speczsluzhb/', name='Строим доверие по методикам спецслужб', author='Робин Дрик', price='399', refToFragment='not defined'}
+ 2020-02-09 11:49:12,894 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:15,214 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/maksimalnaya-energiya/', name='Максимальная энергия', author='Триша Вулфри', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/maksimalnaya-energiya/Celi-i-prioritety-06.mp3'}
+ 2020-02-09 11:49:15,215 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:18,383 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif-o-motivaczii/', name='Миф о мотивации', author='Джефф Хейден', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/mif-o-motivaczii/01-mif-o-motivaczii.mp3'}
+ 2020-02-09 11:49:18,383 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:21,733 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/perexod-k-golubomu-okeanu/', name='Переход к голубому океану', author='Чан Ким', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/perexod-k-golubomu-okeanu/perexod-k-golubomu-okeanu_audio.mp3'}
+ 2020-02-09 11:49:21,734 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:25,074 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/put-vyidayushhixsya-lyudej/', name='Путь выдающихся людей', author='Брендон Берчард', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/put-vyidayushhixsya-lyudej/za-granju-estestvennogo.mp3'}
+ 2020-02-09 11:49:25,075 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:31,910 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/rabota-kak-vnutrennyaya-igra/', name='Работа как внутренняя игра', author='Тимоти Голви', price='239', refToFragment='not defined'}
+ 2020-02-09 11:49:31,910 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:35,502 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/sila-momenta/', name='Сила момента', author='Чип Хиз и Дэн Хиз', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/sila-momenta/sila-momenta_audio.mp3'}
+ 2020-02-09 11:49:35,502 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:42,714 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/lichnyie-graniczyi/', name='Личные границы', author='Дженни Миллер', price='399', refToFragment='not defined'}
+ 2020-02-09 11:49:42,714 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:45,056 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/filosofiya-xoroshej-zhizni/', name='Философия хорошей жизни', author='Рольф Добелли', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/filosofiya-xoroshej-zhizni/25-filosofiya-xoroshej-zhizni.mp3'}
+ 2020-02-09 11:49:45,056 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:47,289 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/spiral-obucheniya/', name='Спираль обучения', author='Митчел Резник', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/spiral-obucheniya/spiral-obucheniya-glava2.mp3'}
+ 2020-02-09 11:49:47,289 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:49,390 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/lift-nastroeniya/', name='Лифт настроения', author='Ларри Сенн', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/lift-nastroeniya/02lift-nastroeniya.mp3'}
+ 2020-02-09 11:49:49,390 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:49:57,650 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/superbetter/', name='SuperBetter', author='Джейн Макгонигал', price='399', refToFragment='not defined'}
+ 2020-02-09 11:49:57,651 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:00,852 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/i_botaniki_delayut_biznes_2/', name='И ботаники делают бизнес 1+2', author='Максим Котин', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/i_botaniki_delayut_biznes_2/04-i_botaniki_delayut_biznes_2.mp3'}
+ 2020-02-09 11:50:00,852 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:03,031 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/privyichki-na-vsyu-zhizn/', name='Привычки на всю жизнь', author='Шон Янг', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/privyichki-na-vsyu-zhizn/privyichki-na-vsyu-zhizn.mp3'}
+ 2020-02-09 11:50:03,031 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:05,772 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/upravlyaj_gormonami_schastya/', name='Управляй гормонами счастья', author='Лоретта Грациано Бройнинг', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/upravlyaj_gormonami_schastya/02upravlyaj_gormonami_schastya.mp3'}
+ 2020-02-09 11:50:05,772 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:09,143 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pasha-i-papa-v-doroge/', name='Паша и папа в дороге', author='Сюзанна Вебер', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/pasha-i-papa-v-doroge/02pasha-i-papa-v-doroge.mp3'}
+ 2020-02-09 11:50:09,143 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:11,912 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/obnimi-menya-krepche/', name='Обними меня крепче', author='Сью Джонсон', price='324', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files/obnimi-menya-krepche/001-02-obnimi-menya-krepche.mp3'}
+ 2020-02-09 11:50:11,913 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:14,398 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/kouching-agile-komand/', name='Коучинг agile-команд', author='Лисса Адкинс', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/kouching-agile-komand/Kouching%20agile-komand.mp3'}
+ 2020-02-09 11:50:14,399 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:16,879 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pravila-zhizni-bryusa-li/', name='Правила жизни Брюса Ли', author='Брюс Ли', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/pravila-zhizni-bryusa-li/06pravila-zhizni-bryusa-li.mp3'}
+ 2020-02-09 11:50:16,880 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:19,657 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/100-sposobov-izmenit-zhizn-chast-vtoraya/', name='100 способов изменить жизнь. Часть вторая', author='Лариса Парфентьева', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/100-sposobov-izmenit-zhizn-chast-vtoraya/01-100-sposobov-izmenit-zhizn-chast-vtoraya.mp3'}
+ 2020-02-09 11:50:19,657 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:27,499 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/berelivoe/', name='Бережливое производство + шесть сигм в сфере услуг', author='Майкл Джордж', price='399', refToFragment='not defined'}
+ 2020-02-09 11:50:27,499 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:31,164 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/biznesxak-na-kazhdyij-den/', name='Бизнесхак на каждый день', author='Игорь Манн', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/biznesxak-na-kazhdyij-den/03-biznesxak-na-kazhdyij-den.mp3'}
+ 2020-02-09 11:50:31,164 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:33,410 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/kak-razgovarivat-s-mudakami/', name='Как разговаривать с мудаками', author='Марк Гоулстон', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new/kak-razgovarivat-s-mudakami/kak-razgovarivat-s-mudakami.mp3'}
+ 2020-02-09 11:50:33,410 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:37,099 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/', name='Лидер и племя', author='Дэйв Логан', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts-new2/lider-i-plemya/lider-i-plemya-audio.mp3'}
+ 2020-02-09 11:50:37,100 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:45,020 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/evangelist-biznesa/', name='Евангелист бизнеса', author='Сергей Абдульманов', price='399', refToFragment='not defined'}
+ 2020-02-09 11:50:45,021 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:47,082 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paradoks-strasti/', name='Парадокс страсти', author='Дин Делис', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/paradoks-strasti/03_v-poiskah-garmonii.mp3'}
+ 2020-02-09 11:50:47,082 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:49,433 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/novye-razmyshleniya-o-lichnom-razvitii/', name='Новые размышления о личном развитии', author='Ицхак Адизес', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/novye-razmyshleniya-o-lichnom-razvitii/Novie_razmishleniya_o_lichnom_razvitii.mp3'}
+ 2020-02-09 11:50:49,433 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:52,717 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/i_could_do_anything/', name='О чем мечтать', author='Барбара Шер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/media/files-2/o-chem-mechtat/o-chem-mechtat.mp3'}
+ 2020-02-09 11:50:52,717 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:55,703 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/razmyshleniya_o_lichnom_razvitii/', name='Размышления о личном развитии', author='Ицхак Адизес', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/novye-razmyshleniya-o-lichnom-razvitii/razmyshleniya-o-lichnom-razvitii.mp3'}
+ 2020-02-09 11:50:55,703 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:50:59,273 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mechtat_ne_vredno/', name='Мечтать не вредно', author='Барбара Шер', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/i-could-do-anything/Mechtat%20ne%20vredno.mp3'}
+ 2020-02-09 11:50:59,273 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:02,599 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/opredelyayushhie_10_let/', name='Важные годы', author='Мэг Джей', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/opredelyayushhie_10_let/Vazhnie_godi.mp3'}
+ 2020-02-09 11:51:02,600 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:05,745 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/pravila_mozga/', name='Правила мозга', author='Джон Медина', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/pravila_mozga/00_Vstuplenie_pravila_mozga.mp3'}
+ 2020-02-09 11:51:05,745 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:09,659 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/remote-office-not-required/', name='Remote. Офис не обязателен', author='Джейсон Фрайд', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/remote-office-not-required/01_Glava%201.%20Prishlo%20vremia%20udalennoi%20raboty.mp3'}
+ 2020-02-09 11:51:09,659 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:16,909 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/k_chertu_vse/', name='К черту все! Берись и делай!', author='Ричард Брэнсон', price='399', refToFragment='not defined'}
+ 2020-02-09 11:51:16,909 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:19,184 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/children/tales/', name='Потешки и пестушки', author='not defined', price='239', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/tales/01prosypaemsya.mp3'}
+ 2020-02-09 11:51:19,184 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:22,298 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/oower-listening/', name='Умение слушать', author='Бернард Феррари', price='319', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/power_listening_mp3/02_Vvedenie.mp3'}
+ 2020-02-09 11:51:22,298 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:25,259 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/advantage/', name='Сердце компании', author='Патрик Ленсиони', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/advantage/serdce_kompanii.mp3'}
+ 2020-02-09 11:51:25,259 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:27,825 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/secrets_of_the_great/charismatic-leader/', name='Харизма лидера', author='Радислав Гандапас', price='456', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/charismatic_leader_mp3/vstuplenie.mp3'}
+ 2020-02-09 11:51:27,825 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:31,327 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/children/schkola-zokov-i-badi/', name='Школа Зоков и Бады', author='Ирина и Леонид Тюхтяевы', price='280', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/schkola-zokov-i-badi-mp3/1.mp3'}
+ 2020-02-09 11:51:31,327 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:34,582 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/how/', name='Отношение определяет результат', author='Дов Сайдман', price='399', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/how/how.mp3'}
+ 2020-02-09 11:51:34,582 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:42,646 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/virgin/', name='Бизнес в стиле Virgin', author='Ричард Брэнсон', price='399', refToFragment='not defined'}
+ 2020-02-09 11:51:42,647 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:45,645 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/slon/', name='Слон на танцполе', author='Евгений Карасюк', price='456', refToFragment='https://www.mann-ivanov-ferber.ru/assets/images/content/books/audio/slon-mp3/000_foreword.mp3'}
+ 2020-02-09 11:51:45,645 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:48,120 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/how-the-mighty-fall_1/', name='Как гибнут великие', author='Джим Коллинз', price='456', refToFragment='https://www.mann-ivanov-ferber.ru/assets/images/content/books/audio/how-the-mighty-fall_mp3/m00.mp3'}
+ 2020-02-09 11:51:48,120 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:51,318 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/biznesroman/velcty/', name='Новая цель', author='Ди Джейкоб', price='359', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/velcty/velcty.mp3'}
+ 2020-02-09 11:51:51,318 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:51:54,572 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/paperbook/story-succes/', name='Гении и аутсайдеры', author='Малкольм Гладуэлл', price='360', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/the-story-of-succes-mp3/vvedenie.mp3'}
+ 2020-02-09 11:51:54,572 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:52:02,227 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/greatpeopledecisions/', name='Выбор сильнейших', author='Клаудио Фернандес Араос', price='399', refToFragment='not defined'}
+ 2020-02-09 11:52:02,227 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:52:04,414 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/audio/009a/', name='Афоризмы о пути к успеху (mp3)', author='not defined', price='280', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/009a/track9.mp3'}
+ 2020-02-09 11:52:04,415 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:52:06,970 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/sse/built-last/', name='Построенные навечно', author='Джим Коллинз', price='456', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/audiobooks/built_to_last_11CD/2.mp3'}
+ 2020-02-09 11:52:06,970 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:52:09,369 BookCrawler.getBookInfo() - AudioBook{url='https://www.mann-ivanov-ferber.ru/books/mif/021/', name='Пятничный менеджер', author='not defined', price='336', refToFragment='https://www.mann-ivanov-ferber.ru/assets/files/bookparts/005a/01.mp3'}
+ 2020-02-09 11:52:09,369 BookCrawler.Test() - Book information updated
+ 2020-02-09 11:52:09,377 CsvFile.importDataToCsvFile() - Waiting for import data to CSV file 
+ 2020-02-09 11:52:09,380 CsvFile.importDataToCsvFile() - Import completed successfully
