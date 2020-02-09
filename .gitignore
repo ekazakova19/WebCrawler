@@ -185,3 +185,9 @@ buildNumber.properties
 *.xhtml
 
 # End of https://www.gitignore.io/api/git,web,java,macos,maven,intellij+all
+src/main/Test Data/ChromeProfile/Default/File System/000/
+src/main/Test Data/ChromeProfile/Default/blob_storage/975b0a82-f702-4252-890e-da9f056550f8/
+src/main/Test Data/ChromeProfile/MEIPreload/
+src/main/Test Data/ChromeProfile/OriginTrials/
+src/main/Test Data/ChromeProfile/WidevineCdm/
+src/test/

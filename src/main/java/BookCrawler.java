@@ -129,45 +129,7 @@ public class BookCrawler {
         logger.info(audioBook);
     }
 
-
-
-    public void loadAllBooksOnThePageSlowVersion(){
-        driver.get("https://www.mann-ivanov-ferber.ru/books/allbooks/?booktype=audiobook");
-        int i=0;
-        int startScrollPoint = 0;
-        while (true){
-            WebElement loader = driver.findElement(By.cssSelector("div.js-page-loader.page-loader"));
-            int loaderPointY = loader.getLocation().getY();
-
-            if(loaderPointY == startScrollPoint){
-               logger.info("Books not loaded, waiting for loading completed ....");
-               try {
-                    wait.until(ExpectedConditions.not(ExpectedConditions.textToBe(By.cssSelector("div.js-page-loader.page-loader"),loader.getText())));
-                } catch (Exception e) {
-                    ((JavascriptExecutor) driver).executeScript("window.scrollBy(0, 10)");
-                    logger.info("Additional scroll done");
-                }
-            }
-
-            logger.info("----------------Iteration #{} : waiting text {};  Loader Point Y {} ----------------",i,loader.getText(),loaderPointY);
-            if(loader.getAttribute("style").equals("display: none;")){
-                logger.info("All books on the page loaded!");
-                break;
-            }
-            else {
-                logger.info("Starting scrolling until loader will be reached");
-                for (int j = startScrollPoint; j < loaderPointY; j+=HEIGHT_OF_ONE_BOOK_ROW) {
-                    ((JavascriptExecutor) driver).executeScript("window.scrollBy(0, 270)");
-                    logger.info("Start scroll to point Y {} ; Loader Point Y = {};", j, loaderPointY);
-
-                }
-                startScrollPoint = loaderPointY;
-                logger.info("----------------Iteration done----------------");
-            }
-            i++;
-        }
-    }
-
+    
 
     public void loadAllBooksOnThePage(){
         driver.get("https://www.mann-ivanov-ferber.ru/books/allbooks/?booktype=audiobook");
